@@ -55,7 +55,7 @@ To run the Pexel Clone project locally, follow these steps:
 
 Contributions to this project are welcome and encouraged! If you have any improvements or new features to add, feel free to fork the repository and submit a pull request.
 
-**Note:** Use your own API in the script.js code file to run in your local host. You can get API by creating an account on Pexel website and get your unique API key from there.
+**Note:** Use your own API in the "script.js" code file to run in your local host. You can get API by creating an account on Pexel website and get your unique API key from there.
 
 View Demo:
 
